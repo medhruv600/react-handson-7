@@ -74,11 +74,7 @@ const AddNewStudents = () => {
           </fieldset>
         </div>
         <div className="grid-btn">
-          <button
-            className="button btn1"
-            onClick={cancelAddStudent}
-            style={{ backgroundColor: "gray" }}
-          >
+          <button className="button btn1" onClick={cancelAddStudent}>
             Cancel
           </button>
           <button className="button btn2" onClick={SubmitNewStudent}>

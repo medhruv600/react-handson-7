@@ -113,12 +113,7 @@ input[type="number"] {
   border-radius: 30px;
   margin-left: 30px;
   cursor: pointer;
-}
-.btn1 {
-  background-color: rgb(116, 116, 116);
-}
-.btn2 {
-  background-color: rgb(186, 220, 233);
+  background-color: gray;
 }
 .grid-btn {
   width: 1000px;
